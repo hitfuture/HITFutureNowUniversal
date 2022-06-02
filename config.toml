@@ -1,5 +1,6 @@
 baseurl = "https://www.hitfuturenow.com/"
-title = "HIT Future Solutions" 
+title = "Brett Randall Taylor" 
+name = "Brett Randall Taylor"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -7,7 +8,7 @@ defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
 #disqusShortname =  NULL
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = "UA-117328123-1"
+googleAnalytics = "UA-117328123-2"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # Define the number of posts per page
 paginate = 10
@@ -22,13 +23,13 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    name = "Blog posts"
+    name = "Examples"
     url  = "/blog/"
     weight = 2
 
 [[menu.main]]
-    name = "FAQ"
-    identifier = "faq"
+    name = "Experience"
+#    identifier = "faq"
     url  = "/faq/"
     weight = 3
 
@@ -65,9 +66,9 @@ paginate = 10
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "Brett Taylor"
-    defaultKeywords = ["R" ,"RStudio" ,"Python" , "Data Science" ,"Healthcare" ,"ShinyProxy"]
-    defaultDescription = "HIT Future Location"
+    author = "Brett Randall Taylor"
+    defaultKeywords = ["R" ,"RStudio" ,"Python" , "Data Science" ,"Healthcare" , "Leadership","Data Archiving"]
+    defaultDescription = "HIT Data Now"
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyB0PaVgTjOXPlrBt_LVxRZItFNgf2OQSio" 
@@ -90,23 +91,23 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "info@hitfuturenow.com"
 
-    about_us = "<p>HIT Future Solutions LLC is a consulting company that helps I.T. staff in Healthcare HIT the future.</p>"
-    copyright = "Copyright (c) 2016 - 2018, HIT Future Solutions, LLC; all rights reserved."
+    about_us = "<p>Brett Taylor is focused on helping Healthcare organizations create a better experience for their patients by leveraging data.</p>"
+    copyright = "Copyright (c) 2020, Brett Taylor; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-    logo = "img/hit40x300.png"
-    address = """<p><strong>HIT Future Solutions, LLC</strong>
-        <br>5737 W Plantation Lane
-        <br>Garden City
-        <br>Idaho, 83703
+    logo = "img/bretts_image001.jpg"
+    address = """<p><strong>Brett R. Taylor</strong>
+        <br>808 Carano Ct
+        <br>Incline Village
+        <br>Nevada, 89451
         <br>
         <strong>United States of America</strong>
       </p>
       """
-    latitude = "43.653963"
-    longitude = "-116.260076"
+    latitude = "39.257143"
+    longitude = "-119.958766"
  
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
@@ -137,14 +138,16 @@ paginate = 10
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.
+    title = "Skills"
+
 
 [params.testimonials]
     enable = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+    title = "Projects"
+    subtitle = "I have been involved with many projects that adopt the right technology at the right time. There are some examples here."
 
 [params.see_more]
     enable = true
@@ -164,5 +167,5 @@ paginate = 10
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
-    subtitle = "Blog Posts are just about me remembering what I'm doing!"
+    title = "Examples in Technology"
+    subtitle = "Examples are shown on Blog Posts."
