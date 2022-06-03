@@ -99,15 +99,15 @@ paginate = 10
 
     logo = "img/bretts_image001.jpg"
     address = """<p><strong>Brett R. Taylor</strong>
-        <br>808 Carano Ct
-        <br>Incline Village
-        <br>Nevada, 89451
+        <br>8223 Ryland Dr
+        <br>El Dorado Hills
+        <br>California, 95762
         <br>
         <strong>United States of America</strong>
       </p>
       """
-    latitude = "39.257143"
-    longitude = "-119.958766"
+    latitude = "38.62923"
+    longitude = "-121.05718"
  
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"

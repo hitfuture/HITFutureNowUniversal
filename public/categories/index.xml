@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Brett Randall Taylor</title>
-    <link>/categories/</link>
+    <link>https://www.hitfuturenow.com/categories/</link>
     <description>Recent content in Categories on Brett Randall Taylor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.hitfuturenow.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Leadership</title>
-      <link>/categories/leadership/</link>
-      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <title>Business Opportunity</title>
+      <link>https://www.hitfuturenow.com/categories/business-opportunity/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/leadership/</guid>
+      <guid>https://www.hitfuturenow.com/categories/business-opportunity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data</title>
-      <link>/categories/data/</link>
-      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      <link>https://www.hitfuturenow.com/categories/data/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Science</title>
-      <link>/categories/science/</link>
-      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/science/</guid>
+      <guid>https://www.hitfuturenow.com/categories/data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistics</title>
-      <link>/categories/statistics/</link>
-      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      <link>https://www.hitfuturenow.com/categories/statistics/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/statistics/</guid>
+      <guid>https://www.hitfuturenow.com/categories/statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science</title>
+      <link>https://www.hitfuturenow.com/categories/science/</link>
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hitfuturenow.com/categories/science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>/categories/development/</link>
+      <link>https://www.hitfuturenow.com/categories/development/</link>
       <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/development/</guid>
+      <guid>https://www.hitfuturenow.com/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Business Opportunity</title>
-      <link>/categories/business-opportunity/</link>
-      <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
+      <title>Leadership</title>
+      <link>https://www.hitfuturenow.com/categories/leadership/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/business-opportunity/</guid>
+      <guid>https://www.hitfuturenow.com/categories/leadership/</guid>
       <description></description>
     </item>
     
